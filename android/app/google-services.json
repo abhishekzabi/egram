@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "900321327886",
+    "project_id": "egramam-e19e9",
+    "storage_bucket": "egramam-e19e9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:900321327886:android:b1e84d6d93b99e1c2eb55f",
+        "android_client_info": {
+          "package_name": "com.example.busdhekho"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqS8RfNwUNMJGIKdQxIU6upUb6vSChaLc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:900321327886:android:8cbffa22145a6c322eb55f",
+        "android_client_info": {
+          "package_name": "com.example.busdh"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqS8RfNwUNMJGIKdQxIU6upUb6vSChaLc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
